@@ -1,2 +1,0 @@
-# AV2
-AV2 CSCW
